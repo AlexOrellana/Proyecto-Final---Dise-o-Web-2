@@ -1,0 +1,70 @@
+<section class="page" data-name="fall">
+	<nav class="navbar">
+            <div class="navbar-bg"></div>
+            <div class="navbar-inner">
+				<div class="left">
+					<a href="#" class="link back">
+						<span class="material-icons">arrow_back</span>
+					</a>
+				</div>
+				
+				 <div class="right">
+			 	<a href="#" class="link panel-open" data-panel=".panel-left">
+					<span class="material-icons">menu</span> 
+				</a>
+				 </div>
+				
+             
+            </div>
+          </nav>
+	
+	<article class="page-content">
+		<div id="producto" class="block">
+				<div class="row">
+					<article class="col-40">
+						<h2 class="block-title">Fall Guys</h2>
+					</article>
+					<article class="col-60">
+						<img src="img/forza.jpg" class="img-fluid">
+					</article>
+				</div>	
+			</div>
+		<div class="block">
+			<h2 class="block-title">Descripción</h2>
+			<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, provident aliquid minima impedit magnam molestiae consectetur libero sapiente, eligendi voluptatum cum! Molestias incidunt eaque, qui sapiente dolorem quasi animi, laboriosam facilis sequi ut necessitatibus minima, saepe consequatur in a.</span>
+		</div>
+		
+		<div class="block">
+			<h2 class="block-title">Detalles</h2>
+			<div class="row juego-info">
+				<article class="col">
+					<ul>
+						<li>Publicado por:</li>
+						<li>Hecho por:</li>
+						<li>Publicado:</li>
+						<li>Tamaño:</li>
+					</ul>
+				</article>
+				<article class="col">
+					<ul class="info-juego no-bullets">
+						<li>Microsoft Studios</li>
+						<li>Playground Games</li>
+						<li>2018</li>
+						<li>63 GB</li>
+					</ul>
+				</article>
+			
+			</div>
+		
+		</div>
+		
+		<div class="block">
+				<div class="row precio">
+					<article class="col-40">
+						<span ><b>$59.99</b></span>
+					</article>
+					<article class="col-60">
+						<a href="#" class="link button button-round button-fill">Comprar</a>
+					</article>
+				</div>	
+			</div>
