@@ -54,10 +54,6 @@ h1,h2,h3,h4,h5,h6{
 	margin-top: 25px;
 		
 }
-#home-productos .col-33{
-	
-}
-
 
 .steam{
 
@@ -216,6 +212,12 @@ padding: 0px 15px;
 }
 #login div{
 	background-color:#001421;
+}
+#login ::placeholder{
+	color: rgba(146, 218, 221, 0.50);
+}
+#login input{
+	color: #fff;
 }
 .login-screen-title img{
 	width: 200px;
